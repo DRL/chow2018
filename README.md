@@ -19,4 +19,6 @@ List of files
 
 * **hbake.kinfin_results.tar.gz**: KinFin output (tar/gzipped).
 
-* **ceWAGO.ids.txt**: *C. elegans* WAGO proteins from *C. elegans*
+* **hbake.ceWAGO.ids.txt**: *C. elegans* WAGO proteins from *C. elegans*
+
+* **hbake.curated_exWAGO_orthologs.faa**; manually curated exWAGO orthologues.
