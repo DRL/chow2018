@@ -11,6 +11,8 @@ List of files
 
 * **hbake.Orthogroups.I3_0.txt.gz**: OrthoFinder output at MCL 3.0 (gzipped).
 
+* **hbake.rnai_pathway.Orthogroups.I3_0.txt**: OrthoFinder OrthoGroups listed in Figure 6.
+
 * **hbake.tree.nwk**: Phylogenetic tree of species in the analysis.
 
 * **hbake.SequenceIDs.txt.gz**: OrthoFinder SequenceIDs file (gzipped).
